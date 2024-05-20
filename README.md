@@ -23,7 +23,6 @@ Repositorio final}$
 
 ${\color{red}Estudiante:}$
 ${\color{orange}Aguiñaga Flores Luis Fernando - 21210354}$
-${\color{green}Perez Gonzalez Kevin William - 21212019}$
+${\color{yellow}Perez Gonzalez Kevin William - 21212019}$
 ${\color{purple}Luna Bernal Juan Francisco - 21210393}$
-${\color{yellow}Martinez Flores Manuel Andres - 21210396}$
 ${\color{pink}Gamboa Hernández Esmeralda - 21210374}$
