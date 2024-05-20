@@ -1,3 +1,4 @@
+# Codigo:
 ```C++
 using System;
 using System.Windows.Forms;
@@ -76,3 +77,6 @@ namespace Interfaz_Practica_1
 
 
 ```
+
+# Imagen del programa:
+![image](https://github.com/LuisFlores2121/Los-Tiesos-del-Norte/assets/114443206/0cd27709-4aae-4fce-b150-89c27ce0e779)
