@@ -1,28 +1,29 @@
-# # ${\color{green} LENGUAJES \space DE \space INTERFAZ}$
-Tecnológico Nacional de México
-Instituto Tecnológico de Tijuana
+# #  ${\color{green} LENGUAJES \space DE \space INTERFAZ}$
+# # ${\color{green}Tecnológico\space Nacional\space de\space México}$
+ # ${\color{green}Instituto\space Tecnológico\space de\space Tijuana}$
 
-Departamento de Sistemas y Computación
-Ingeniería en Sistemas Computacionales
+${\color{blue}Departamento\space de\space Sistemas\space y\space Computación}$
 
-Semestre:
-Febrero - Junio 2022
+${\color{blue}Ingeniería\space en\space Sistemas\space Computacionales}$
 
-Materia:
-Lenguajes de interfaz
+${\color{blue}Semestre:
+Febrero - Junio 2022}$
 
-Docente:
-M.C. Rene Solis Reyes 
+${\color{blue}Materia:
+Lenguajes de interfaz}$
 
-Unidad:
-1
+${\color{blue}Docente:
+M.C. Rene Solis Reyes }$
 
-Título del trabajo:
-Exposiciones
+${\color{red}Unidad:
+4}$
 
-Estudiante:
-Aguiñaga Flores Luis Fernando - 21210354
-Perez Gonzalez Kevin William - 21212019
-Luna Bernal Juan Francisco - 21210393
-Martinez Flores Manuel Andres - 21210396
-Gamboa Hernández Esmeralda - 21210374
+${\color{red}Título  del  trabajo:
+Repositorio final}$
+
+${\color{red}Estudiante:}$
+${\color{orange}Aguiñaga Flores Luis Fernando - 21210354}$
+${\color{green}Perez Gonzalez Kevin William - 21212019}$
+${\color{purple}Luna Bernal Juan Francisco - 21210393}$
+${\color{yellow}Martinez Flores Manuel Andres - 21210396}$
+${\color{pink}Gamboa Hernández Esmeralda - 21210374}$
